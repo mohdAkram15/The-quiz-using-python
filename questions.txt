@@ -1,0 +1,20 @@
+ What is the output of print(2**3)?|6|8|9|5|2
+Which symbol is used for comments in Python?|//|#|/*|--|2
+Which data type stores True or False?|int|str|bool|float|3
+Which function is used to take input from user?|scan()|input()|read()|get()|2
+What is the index of first element in a list?|0|1|-1|Depends|1
+Which keyword is used for loop in Python?|loop|iterate|for|repeat|3
+Which function gives length of list?|count()|size()|len()|length()|3
+Which operator is used for division?|/|//|%|**|1
+Which keyword is used to create a class?|class|define|object|struct|1
+Which of these is a mutable data type?|tuple|string|list|int|3
+What does len("Hello") return?|4|5|6|Error|2
+Which operator is used for remainder?|/|//|%|*|3
+Which keyword is used for conditional statement?|check|if|when|case|2
+Which function converts string to integer?|int()|str()|float()|char()|1
+Which method adds item to end of list?|add()|append()|insert()|push()|2
+What is output of print(10//3)?|3.33|3|4|1|2
+Which collection does not allow duplicate values?|list|tuple|set|dict|3
+Which keyword is used to handle exceptions?|try|error|catch|final|1
+Which block always executes in exception handling?|catch|else|finally|error|3
+Which operator is used for logical AND?|&&|and|&|AND|2
